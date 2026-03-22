@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hello, I am Hset Paing Htoo 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Building+things+that+actually+work;Sometimes+on+first+try&width=500&height=40&duration=2500&pause=1200)
 
-<!--
-**hsetpainghtoo/hsetpainghtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=hsetpainghtoo&color=blue)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Frontend Developer focused on building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real products with clean UI and smooth user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Your vision, built with clean code and modern design.”
+
+---
+
+## 💼 What I Do
+- ⚛️ Build UI with React & Next.js  
+- 📊 Create dashboards & data-driven apps  
+- 🎨 Focus on clean, modern UI/UX  
+- 🔗 Work with APIs & backend integration  
+
+---
+
+## 🛠️ Skills & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+## 🌐 Portfolio
+🔗 https://hsetpaing-portfolio.vercel.app
+
+---
+
+## 📊 GitHub Stats
+![Hset's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsetpainghtoo&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=hsetpainghtoo&theme=tokyonight)
+
+---
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsetpainghtoo&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+- 🚀 Fuel Management System  
+- 📊 Myanmar Express Hub  
+- 🌐 Roots to Rooms  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: hsetpainghtoo218@gmail.com  
+- 🌐 Portfolio: https://hsetpaing-portfolio.vercel.app
+
+---
+
+## 💡 Fun Fact
+I build things that not only work — but feel good to use.
+
