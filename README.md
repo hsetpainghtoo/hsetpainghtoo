@@ -39,18 +39,28 @@ I enjoy turning ideas into real products with clean UI and smooth user experienc
 
 ---
 
-## 📊 GitHub Stats
-![Hset's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsetpainghtoo&show_icons=true&theme=tokyonight)
+## 🕺 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hsetpainghtoo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hsetpainghtoo&show_icons=true&theme=tokyonight" alt="Hset's GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsetpainghtoo&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hsetpainghtoo&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsetpainghtoo&layout=compact&theme=tokyonight)
 
 ---
 
