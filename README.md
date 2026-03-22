@@ -29,8 +29,13 @@ I enjoy turning ideas into real products with clean UI and smooth user experienc
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -46,28 +51,17 @@ I enjoy turning ideas into real products with clean UI and smooth user experienc
 
 ## 📊 GitHub Stats & Top Languages
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hsetpainghtoo&show_icons=true&theme=tokyonight" alt="Hset's GitHub stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsetpainghtoo&layout=compact&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hsetpainghtoo&show_icons=true&theme=tokyonight" />
+  <img width="5%" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsetpainghtoo&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hsetpainghtoo&theme=tokyonight)
-
----
-
-## 📌 Featured Projects
-- 🚀 Fuel Management System  
-- 📊 Myanmar Express Hub  
-- 🌐 Roots to Rooms  
 
 ---
 
