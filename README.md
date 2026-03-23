@@ -31,11 +31,11 @@ I enjoy turning ideas into real products with clean UI and smooth user experienc
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=flat&logo=redux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=flat&logo=redux&logoColor=white" />
 </p>
 
 ---
